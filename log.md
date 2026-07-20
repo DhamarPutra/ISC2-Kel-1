@@ -1,3 +1,3 @@
-WIB: Monday, 20 July 2026 17.16.25 UTC
-WITA: Monday, 20 July 2026 18.16.25 UTC
-WIT: Monday, 20 July 2026 19.16.25 UTC
+WIB: Monday, 20 July 2026 20.10.14 UTC
+WITA: Monday, 20 July 2026 21.10.14 UTC
+WIT: Monday, 20 July 2026 22.10.14 UTC
